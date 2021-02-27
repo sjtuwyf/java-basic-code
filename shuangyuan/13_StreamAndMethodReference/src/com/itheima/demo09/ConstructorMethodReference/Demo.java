@@ -18,5 +18,6 @@ public class Demo {
         });
 
         printName("迪丽热巴",Person::new);
+
     }
 }
