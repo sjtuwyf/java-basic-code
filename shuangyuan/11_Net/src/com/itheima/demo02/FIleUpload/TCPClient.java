@@ -1,4 +1,4 @@
-package com.itheima.demo03.FileUpload;
+package com.itheima.demo02.FIleUpload;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -49,13 +49,14 @@ public class TCPClient {
         //6.使用Socket中的方法getInputStream,获取网络字节输入流InputStream对象
         InputStream is = socket.getInputStream();
 
-
+        System.out.println("333333333333333333333");
 
         //7.使用网络字节输入流InputStream对象中的方法read读取服务回写的数据
         while((len = is.read(bytes))!=-1){
             System.out.println(new String(bytes,0,len));
         }
 
+        System.out.println("444444444444444444  while死循环打印不到");
 
         //8.释放资源(FileInputStream,Socket)
         fis.close();
