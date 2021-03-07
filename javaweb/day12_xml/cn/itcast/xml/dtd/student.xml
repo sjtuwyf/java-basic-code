@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE students SYSTEM "student.dtd">
+<!--<!DOCTYPE students [-->
+
+		<!--<!ELEMENT students (student*) >-->
+		<!--<!ELEMENT student (name,age,sex)>-->
+		<!--<!ELEMENT name (#PCDATA)>-->
+		<!--<!ELEMENT age (#PCDATA)>-->
+		<!--<!ELEMENT sex (#PCDATA)>-->
+		<!--<!ATTLIST student number ID #REQUIRED>-->
+
+		<!--]>-->
+
+
+<students>
+	<student number="a001">
+		<name>dsf</name>
+		<age>21</age>
+		<sex>das</sex>
+	</student>
+	<student number="d002">
+		<name>d</name>
+		<age>23</age>
+		<sex>23</sex>
+	</student>
+</students>
