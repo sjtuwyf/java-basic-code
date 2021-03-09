@@ -16,7 +16,9 @@ public class ResponseDemo1 extends HttpServlet {
 //        response.setStatus(302);
 //        response.setHeader("location","/day15/responseDemo2");
 
-        response.sendRedirect("/day15/responseDemo2");
+//        response.sendRedirect("/day15/responseDemo2");
+        String contextPath = request.getContextPath();
+        response.sendRedirect(contextPath+"/responseDemo2");
     }
 
     @Override
