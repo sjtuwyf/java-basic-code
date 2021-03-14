@@ -22,10 +22,14 @@
 
     for(var i =0 ; i < divs.length;i++) {
         divs[i].innerHTML = "aaa";
+        $(divs[i]).html("ccc");
     }
     alert($divs.length);
 
     $divs.html("bbb");
+
+    $divs[0].innerHTML= "ddd";
+    $divs.get(1).innerHTML = "eee";
 
 
 
