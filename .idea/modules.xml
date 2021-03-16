@@ -53,6 +53,9 @@
       <module fileurl="file://$PROJECT_DIR$/javabasic/javabasic.iml" filepath="$PROJECT_DIR$/javabasic/javabasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb/javaweb.iml" filepath="$PROJECT_DIR$/javaweb/javaweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/lianxiti/lianxiti.iml" filepath="$PROJECT_DIR$/lianxiti/lianxiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/maven_mysql/maven_mysql.iml" filepath="$PROJECT_DIR$/javaweb/maven_mysql/maven_mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/maven_mysql.iml" filepath="$PROJECT_DIR$/javaweb/maven_mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/maven_web/maven_web.iml" filepath="$PROJECT_DIR$/javaweb/maven_web/maven_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/shuangyuan/shuangyuan.iml" filepath="$PROJECT_DIR$/shuangyuan/shuangyuan.iml" />
     </modules>
   </component>
