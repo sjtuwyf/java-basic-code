@@ -6,12 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="day01_eesy_01mybatis" />
+        <module name="day01_eesy_02mybatis_annotation" />
+        <module name="day01_eesy_03mybatis_dao" />
+        <module name="day01_eesy_04mybatis_design" />
         <module name="maven_mysql" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="day01_eesy_01mybatis" target="1.5" />
+      <module name="day01_eesy_02mybatis_annotation" target="1.5" />
+      <module name="day01_eesy_03mybatis_dao" target="1.5" />
+      <module name="day01_eesy_04mybatis_design" target="1.5" />
       <module name="maven_mysql" target="1.5" />
       <module name="maven_web_" target="1.8" />
+      <module name="mybatis" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

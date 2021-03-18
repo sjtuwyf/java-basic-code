@@ -8,6 +8,8 @@
       <list>
         <option value="$PROJECT_DIR$/javaweb/pom.xml" />
         <option value="$PROJECT_DIR$/javaweb/maven_mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/javabasic/mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
       </list>
     </option>
   </component>
