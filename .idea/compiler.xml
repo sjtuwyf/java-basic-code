@@ -10,6 +10,13 @@
         <module name="day01_eesy_02mybatis_annotation" />
         <module name="day01_eesy_03mybatis_dao" />
         <module name="day01_eesy_04mybatis_design" />
+        <module name="day02__eesy_01mybatisCRUD" />
+        <module name="day02_eesy_02mybatisDAO" />
+        <module name="day03_eesy_01datasourceAndTx" />
+        <module name="day03_eesy_02dynamicSQL" />
+        <module name="day03_eesy_03one2many" />
+        <module name="day03_eesy_04many2many" />
+        <module name="day03_eesy_05jndi" />
         <module name="maven_mysql" />
       </profile>
     </annotationProcessing>
@@ -18,6 +25,13 @@
       <module name="day01_eesy_02mybatis_annotation" target="1.5" />
       <module name="day01_eesy_03mybatis_dao" target="1.5" />
       <module name="day01_eesy_04mybatis_design" target="1.5" />
+      <module name="day02__eesy_01mybatisCRUD" target="1.5" />
+      <module name="day02_eesy_02mybatisDAO" target="1.5" />
+      <module name="day03_eesy_01datasourceAndTx" target="1.5" />
+      <module name="day03_eesy_02dynamicSQL" target="1.5" />
+      <module name="day03_eesy_03one2many" target="1.5" />
+      <module name="day03_eesy_04many2many" target="1.5" />
+      <module name="day03_eesy_05jndi" target="1.7" />
       <module name="maven_mysql" target="1.5" />
       <module name="maven_web_" target="1.8" />
       <module name="mybatis" target="1.5" />

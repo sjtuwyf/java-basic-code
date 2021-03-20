@@ -22,7 +22,14 @@
       <module fileurl="file://$PROJECT_DIR$/mybatis/day01_eesy_04mybatis_design/day01_eesy_04mybatis_design.iml" filepath="$PROJECT_DIR$/mybatis/day01_eesy_04mybatis_design/day01_eesy_04mybatis_design.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb/day01_foundationstrengthen/day01_foundationstrengthen.iml" filepath="$PROJECT_DIR$/javaweb/day01_foundationstrengthen/day01_foundationstrengthen.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabasic/day02-code/day02-code.iml" filepath="$PROJECT_DIR$/javabasic/day02-code/day02-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/day02__eesy_01mybatisCRUD/day02__eesy_01mybatisCRUD.iml" filepath="$PROJECT_DIR$/mybatis/day02__eesy_01mybatisCRUD/day02__eesy_01mybatisCRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/day02_eesy_02mybatisDAO/day02_eesy_02mybatisDAO.iml" filepath="$PROJECT_DIR$/mybatis/day02_eesy_02mybatisDAO/day02_eesy_02mybatisDAO.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabasic/day03-code/day03-code.iml" filepath="$PROJECT_DIR$/javabasic/day03-code/day03-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/day03_eesy_01datasourceAndTx/day03_eesy_01datasourceAndTx.iml" filepath="$PROJECT_DIR$/mybatis/day03_eesy_01datasourceAndTx/day03_eesy_01datasourceAndTx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/day03_eesy_02dynamicSQL/day03_eesy_02dynamicSQL.iml" filepath="$PROJECT_DIR$/mybatis/day03_eesy_02dynamicSQL/day03_eesy_02dynamicSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/day03_eesy_03one2many/day03_eesy_03one2many.iml" filepath="$PROJECT_DIR$/mybatis/day03_eesy_03one2many/day03_eesy_03one2many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/day03_eesy_04many2many/day03_eesy_04many2many.iml" filepath="$PROJECT_DIR$/mybatis/day03_eesy_04many2many/day03_eesy_04many2many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/day03_eesy_05jndi/day03_eesy_05jndi.iml" filepath="$PROJECT_DIR$/mybatis/day03_eesy_05jndi/day03_eesy_05jndi.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb/day04_JDBC/day04.iml" filepath="$PROJECT_DIR$/javaweb/day04_JDBC/day04.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabasic/day04-code/day04-code.iml" filepath="$PROJECT_DIR$/javabasic/day04-code/day04-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb/day04_JDBC/day04_JDBC.iml" filepath="$PROJECT_DIR$/javaweb/day04_JDBC/day04_JDBC.iml" />
@@ -54,7 +61,6 @@
       <module fileurl="file://$PROJECT_DIR$/javaweb/day21_JQuery高级/day21_JQuery高级.iml" filepath="$PROJECT_DIR$/javaweb/day21_JQuery高级/day21_JQuery高级.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb/day22_Ajax&amp;JSON/day22_Ajax&amp;Json.iml" filepath="$PROJECT_DIR$/javaweb/day22_Ajax&amp;JSON/day22_Ajax&amp;Json.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb/day23_redis/day23_redis.iml" filepath="$PROJECT_DIR$/javaweb/day23_redis/day23_redis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javabasic/javabasic.iml" filepath="$PROJECT_DIR$/javabasic/javabasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb/javaweb.iml" filepath="$PROJECT_DIR$/javaweb/javaweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/lianxiti/lianxiti.iml" filepath="$PROJECT_DIR$/lianxiti/lianxiti.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb/maven_mysql/maven_mysql.iml" filepath="$PROJECT_DIR$/javaweb/maven_mysql/maven_mysql.iml" />

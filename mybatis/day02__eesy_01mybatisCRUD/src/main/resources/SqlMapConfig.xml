@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+    <properties url="file:///D:/IdeaProjects/basic-code/mybatis/day02__eesy_01mybatisCRUD/src/main/resources/jdbcConfig.properties">
+        <!--<property name="driver" value="com.mysql.jdbc.Driver"></property>
+        <property name="url" value="jdbc:mysql://localhost:3306/eesy_mybatis"></property>
+        <property name="username" value="root"></property>
+        <property name="password" value="root"></property>-->
+    </properties>
+
+    <typeAliases>
+        <!--<typeAlias type="com.itheima.domain.User" alias="user"></typeAlias>-->
+        <package name="com.itheima.domain"></package>
+    </typeAliases>
+    <environments default="mysql">
+        <environment id="mysql">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="driver" value="${jdbc.driver}"></property>
+                <property name="url" value="${jdbc.url}"></property>
+                <property name="username" value="${jdbc.username}"></property>
+                <property name="password" value="${jdbc.password}"></property>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <mappers>
+        <!--<mapper resource="com/itheima/dao/IUserDao.xml"></mapper>-->
+        <package name="com.itheima.dao"></package>
+    </mappers>
+
+    
+</configuration>
