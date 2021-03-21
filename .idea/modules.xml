@@ -33,6 +33,9 @@
       <module fileurl="file://$PROJECT_DIR$/javaweb/day04_JDBC/day04.iml" filepath="$PROJECT_DIR$/javaweb/day04_JDBC/day04.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabasic/day04-code/day04-code.iml" filepath="$PROJECT_DIR$/javabasic/day04-code/day04-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb/day04_JDBC/day04_JDBC.iml" filepath="$PROJECT_DIR$/javaweb/day04_JDBC/day04_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/day04_eesy_01lazy/day04_eesy_01lazy.iml" filepath="$PROJECT_DIR$/mybatis/day04_eesy_01lazy/day04_eesy_01lazy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/day04_eesy_02cache/day04_eesy_02cache.iml" filepath="$PROJECT_DIR$/mybatis/day04_eesy_02cache/day04_eesy_02cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/day04_eesy_03annotation_mybatis/day04_eesy_03annotation_mybatis.iml" filepath="$PROJECT_DIR$/mybatis/day04_eesy_03annotation_mybatis/day04_eesy_03annotation_mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabasic/day05-code/day05-code.iml" filepath="$PROJECT_DIR$/javabasic/day05-code/day05-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaweb/day05_dataSource_jdbcTemplate/day05_dataSource_jdbcTemplate.iml" filepath="$PROJECT_DIR$/javaweb/day05_dataSource_jdbcTemplate/day05_dataSource_jdbcTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/javabasic/day06-code/day06-code.iml" filepath="$PROJECT_DIR$/javabasic/day06-code/day06-code.iml" />
