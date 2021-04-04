@@ -21,6 +21,7 @@
         <module name="day04_eesy_02cache" />
         <module name="day04_eesy_03annotation_mybatis" />
         <module name="maven_mysql" />
+        <module name="travel" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -41,6 +42,7 @@
       <module name="maven_mysql" target="1.5" />
       <module name="maven_web_" target="1.8" />
       <module name="mybatis" target="1.5" />
+      <module name="travel" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

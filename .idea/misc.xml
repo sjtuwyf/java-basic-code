@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/File/华生给文件/19全栈/01资料/3.javaWeb/29.会员版(2.0)-就业课(2.0)-黑马旅游网/52.综合案例4/day28_综合案例4/代码/travel" />
     <file type="web" url="file://$PROJECT_DIR$/mybatis/day03_eesy_05jndi" />
     <file type="web" url="file://$PROJECT_DIR$/../maven_web_" />
   </component>
@@ -11,6 +12,7 @@
         <option value="$PROJECT_DIR$/javaweb/maven_mysql/pom.xml" />
         <option value="$PROJECT_DIR$/javabasic/mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis/pom.xml" />
+        <option value="D:/File/华生给文件/19全栈/01资料/3.javaWeb/29.会员版(2.0)-就业课(2.0)-黑马旅游网/52.综合案例4/day28_综合案例4/代码/travel/pom.xml" />
       </list>
     </option>
   </component>
